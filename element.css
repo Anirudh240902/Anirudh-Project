@@ -1,0 +1,71 @@
+body {
+    background-image: url("wrtiting-tools.jpg");
+    background-size: cover;
+}
+
+.logo {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 75px;
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+
+.home {
+    font-size: 30px;
+    text-align: center;
+}
+
+.intro {
+    text-align: center;
+}
+
+.Homeimage {
+    width: 100px;
+}
+
+.myimage {
+    width: 200px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 5px;
+}
+
+h2 {
+    font-size: 55px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+}
+
+table {
+    width: 1000px;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 30px;
+    min-width: 400px;
+}
+
+th {
+    text-align: left;
+}
+
+p {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+h3 {
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Gallery {
+    text-align: center;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.contectme {
+    font-size: 30px;
+}
